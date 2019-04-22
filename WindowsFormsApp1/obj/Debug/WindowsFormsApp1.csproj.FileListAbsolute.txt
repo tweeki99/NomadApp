@@ -1,0 +1,8 @@
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+c:\users\шипиловд.corp\source\repos\NomadAppWf\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

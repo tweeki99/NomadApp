@@ -1,0 +1,12 @@
+c:\users\шипиловд.corp\source\repos\NomadAppWf\NomadAppWf.Models\bin\Debug\NomadAppWf.Models.dll
+c:\users\шипиловд.corp\source\repos\NomadAppWf\NomadAppWf.Models\bin\Debug\NomadAppWf.Models.pdb
+c:\users\шипиловд.corp\source\repos\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.csprojAssemblyReference.cache
+c:\users\шипиловд.corp\source\repos\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.csproj.CoreCompileInputs.cache
+c:\users\шипиловд.corp\source\repos\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.dll
+c:\users\шипиловд.corp\source\repos\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.pdb
+E:\Всякое\NomadAppWf\NomadAppWf.Models\bin\Debug\NomadAppWf.Models.dll
+E:\Всякое\NomadAppWf\NomadAppWf.Models\bin\Debug\NomadAppWf.Models.pdb
+E:\Всякое\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.csprojAssemblyReference.cache
+E:\Всякое\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.csproj.CoreCompileInputs.cache
+E:\Всякое\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.dll
+E:\Всякое\NomadAppWf\NomadAppWf.Models\obj\Debug\NomadAppWf.Models.pdb
